@@ -3,9 +3,7 @@
 ## Описание проекта
 ссылка на проект -  https://t.me/narodnueokna21_bot
 
-скриншоты моего бота:
-![скриншот 1]([https://example.com/image.png](https://github.com/AlexanderBudan/ai_assistent/blob/main/1.png?raw=true)
-![скриншот 2]([[https://example.com/image.png](https://github.com/AlexanderBudan/ai_assistent/blob/main/1.png?raw=true)](https://github.com/AlexanderBudan/ai_assistent/blob/main/2.png?raw=true)
+скриншоты 
 
 Проект "ИИ ассистент для компании по установке окон" представляет собой интеллектуальную систему, созданную для автоматизации общения с клиентами компании. Ассистент способен вести осмысленные диалоги, отвечать на вопросы, основываясь на предварительно подготовленной базе знаний, и записывать клиентов на встречи, автоматически добавляя события в Google Календарь.
 
