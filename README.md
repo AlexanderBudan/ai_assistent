@@ -6,6 +6,11 @@
 скриншоты проекта
 ![Скриншот 1 к проекту](https://github.com/AlexanderBudan/ai_assistent/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%B2%202025-06-22%2004-53-08.png?raw=true)
 ![Скриншот 2 к проекту](https://github.com/AlexanderBudan/ai_assistent/blob/main/2.png?raw=true)
+![Скриншот 2 к проекту](https://github.com/AlexanderBudan/ai_assistent/blob/main/3.png?raw=true)
+![Скриншот 2 к проекту](https://github.com/AlexanderBudan/ai_assistent/blob/main/4.png?raw=true)
+![Скриншот 2 к проекту](https://github.com/AlexanderBudan/ai_assistent/blob/main/5.png?raw=true)
+![Скриншот 2 к проекту](https://github.com/AlexanderBudan/ai_assistent/blob/main/6.png?raw=true)
+![Скриншот 2 к проекту](https://github.com/AlexanderBudan/ai_assistent/blob/main/7.png?raw=true)
 
 Проект "ИИ ассистент для компании по установке окон" представляет собой интеллектуальную систему, созданную для автоматизации общения с клиентами компании. Ассистент способен вести осмысленные диалоги, отвечать на вопросы, основываясь на предварительно подготовленной базе знаний, и записывать клиентов на встречи, автоматически добавляя события в Google Календарь.
 
